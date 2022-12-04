@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Roomba</title>
+    <style>
+        body{
+            background: paleturquoise;
+            font-size: 20px;
+        }
+        h1{
+            align-items: center;
+            color: red;
+        }
+        k{
+            color: rgb(218, 215, 250);
+        }
+        img{
+            width: 500px;
+            height: 500px;
+        }
+
+    </style>
+</head>
+<body>
+    <h1 >Roomba</h1>
+    <img src="https://th.bing.com/th/id/OIP.rdhSx3VN49ENrh02qoMQdwHaEd?pid=ImgDet&w=620&h=374&rs=1" name="img" aligin="center">
+    <p>
+        One of the world’s most famous AMR robots might be sitting in your house right now. Roomba, built by iRobot in 2002, is a robotic vacuum cleaner that navigates your home using sensors. The first of their kind, Roombas are now in more than 40 million homes worldwide.
+    </p>
+    <h3 name="k">CREATOR</h3>
+    <p>iRobot</p>
+    <h3 name="k">COUNTRY</h3>
+    <p>American</p>
+</body>
+</html>
