@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Pepper</title>
+    <style>
+        body{
+            background: paleturquoise;
+            font-size: 20px;
+        }
+        h1{
+            align-items: center;
+            color: red;
+        }
+        k{
+            color: rgb(218, 215, 250);
+        }
+        img{
+            width: 500px;
+            height: 500px;
+        }
+
+    </style>
+</head>
+<body>
+    <h1 >Pepper</h1>
+    <img src="https://th.bing.com/th/id/R.6c70dd11980c8cbc5e24fb66376908ee?rik=%2bNcPbKp4ccsk7w&riu=http%3a%2f%2fcontent.assets.pressassociation.io%2f2018%2f10%2f26155552%2f5432128b-60a6-424c-807f-a0b18ec5dce7.jpeg&ehk=zYxYsubJbmT8cPBVRtIN2E%2fZyJlbWujyA06fe66vwwk%3d&risl=&pid=ImgRaw&r=0" name="img" aligin="center">
+    <p>
+        Pepper is one of the world’s first human-like robots that can recognize faces and emotions. Created by the Japanese company Softbank, the Pepper robots sold out in minutes when they were first released in 2014. They were designed to interact with humans, answering customer questions, recommending products to retail shoppers, helping people fill out bank forms and assisting with hands-on learning in classrooms.
+    </p>
+    <h3 name="k">CREATOR</h3>
+    <p>
+        SoftBank Robotics
+    </p>
+    <h3 name="k">COUNTRY</h3>
+    <p>Japan ,France</p>
+</body>
+</html>
