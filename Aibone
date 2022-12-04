@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Aibone</title>
+    <style>
+        body{
+            background: paleturquoise;
+            font-size: 20px;
+        }
+        h1{
+            align-items: center;
+            color: red;
+        }
+        k{
+            color: rgb(218, 215, 250);
+        }
+        img{
+            width: 500px;
+            height: 500px;
+        }
+
+    </style>
+</head>
+<body>
+    <h1 >Aibone</h1>
+    <img src="https://th.bing.com/th/id/OIP.1i8P_4mD3XqUrxq0l7oj2AHaE7?pid=ImgDet&rs=1" name="img" aligin="center">
+    <p>
+        Aibo is a friendly robotic dog whose personality and behavior evolves over time. It can recognize its owner's face, detect smiles and words of praise, and learn new tricks. And of course, it loves to be petted.
+    </p>
+    <h3 name="k">CREATOR</h3>
+    <p>Sony</p>
+    <h3 name="k">COUNTRY</h3>
+    <p>Japan</p>
+</body>
+</html>
