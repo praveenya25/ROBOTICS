@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Delivery</title>
+    <style>
+        body{
+            background: paleturquoise;
+            font-size: 20px;
+        }
+        h1{
+            align-items: center;
+            color: red;
+        }
+        k{
+            color: rgb(218, 215, 250);
+        }
+        img{
+            width: 500px;
+            height: 500px;
+        }
+
+    </style>
+</head>
+<body>
+    <h1 >Delivery</h1>
+    <img src="https://th.bing.com/th/id/OIP.X8NCbrYYVHDmchQfGKxbGwHaE7?pid=ImgDet&rs=1" name="img" aligin="center">
+    <p>
+        In Japan, you can get sushi delivered by robot. And in Houston, you can get pizza. Fast-food chain Domino’s has partnered with the robotics company Nuro to launch a pilot program that delivers fresh-made pizzas via self-driving AMR robots. All customers have to do is opt in to Nuro’s R2 delivery service, meet the robot outside when it arrives and enter an access pin to unlock the door and get their pizza
+    </p>
+    <h3 name="k">CREATOR</h3>
+    <p>Domino’s</p>
+    <h3 name="k">COUNTRY</h3>
+    <p>Japan</p>
+</body>
+</html>
