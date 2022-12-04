@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Asimo</title>
+    <style>
+        body{
+            background: paleturquoise;
+            font-size: 20px;
+        }
+        h1{
+            align-items: center;
+            color: red;
+        }
+        k{
+            color: rgb(218, 215, 250);
+        }
+        img{
+            width: 500px;
+            height: 500px;
+        }
+
+    </style>
+</head>
+<body>
+    <h1 >Asimo</h1>
+    <img src="https://th.bing.com/th/id/OIP.0DgJvloRxNlBiEgMtJJHqQHaEK?pid=ImgDet&rs=1" name="img" aligin="center">
+    <p>
+        Honda has spent more than a decade building ASIMO, a humanoid robot that the company hopes will someday help us around the house. ASIMO, which stands for Advanced Step in Innovative Mobility, can communicate in American and Japanese sign language, run at speeds of up to 5.6 miles per hour and predict and respond to its surroundings. Though ASIMO is not currently for sale, Honda hopes it will hit stores by 2030.
+    <h3 name="k">CREATOR</h3>
+    <p>Honda</p>
+    <h3 name="k">COUNTRY</h3>
+    <p>Japan</p>
+</body>
+</html>
