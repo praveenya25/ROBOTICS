@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Robugtix</title>
+    <style>
+        body{
+            background: paleturquoise;
+            font-size: 20px;
+        }
+        h1{
+            align-items: center;
+            color: red;
+        }
+        k{
+            color: rgb(218, 215, 250);
+        }
+        img{
+            width: 500px;
+            height: 500px;
+        }
+
+    </style>
+</head>
+<body>
+    <h1 >Robugtix</h1>
+    <img src="https://i1.wp.com/www.techmymoney.com/wp-content/uploads/2013/07/Robugtix-T8.jpg?fit=766%2C541&ssl=1" name="img" aligin="center">
+    <p>
+        Our first advanced robot was the T8 spider, for which we used 3D printing methods in a time when very few were using it for robotics. To control the robot, we developed an inverse kinematics engine that amused the world and for this achievement, we received a lot of positive reviews and coverage. After seeing how our T8 entertained the public, we decided to make a mass-produced version of it, the T8X, to make it more accessible for people.
+
+Since then, we’ve also been focusing on helping other organizations in their businesses wherever robotics applied. 
+    </p>
+    <h3 name="k">CREATOR</h3>
+    <p>Robugtix</p>
+    <h3 name="k">COUNTRY</h3>
+    <p>Hong Kong</p>
+</body>
+</html>
