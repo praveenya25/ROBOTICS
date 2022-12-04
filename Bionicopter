@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bionicopter</title>
+    <style>
+        body{
+            background: paleturquoise;
+            font-size: 20px;
+        }
+        h1{
+            align-items: center;
+            color: red;
+        }
+        k{
+            color: rgb(218, 215, 250);
+        }
+        img{
+            width: 500px;
+            height: 500px;
+        }
+
+    </style>
+</head>
+<body>
+    <h1 >Bionicopter</h1>
+    <img src="https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photos/13611135/bionicopter.jpg" name="img" aligin="center">
+    <p>
+        Bionicopter is more maneuverable than previous iterations of flying robots. With a wingspan of 27 inches and a body 19 inches long, this dragonfly robot is a great deal larger than the insects which inspired it. But in slow motion, its wings look just like the real thing. Bionicopter can fly forward, backward and stop abruptly in the air. A carbon fiber body covered in blue polyester performance material make Bionicopter a beautiful bug to behold.
+    </p>
+    <h3 name="k">CREATOR</h3>
+    <p>Festo</p>
+    <h3 name="k">COUNTRY</h3>
+    <p>Japan</p>
+</body>
+</html>
