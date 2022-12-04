@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        body{
+            background: paleturquoise;
+            font-size: 20px;
+        }
+        h1{
+            align-items: center;
+            color: red;
+        }
+        k{
+            color: rgb(218, 215, 250);
+        }
+
+    </style>
+</head>
+<body>
+    <h1 ><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Kamigami</title>
+    <style>
+        body{
+            background: paleturquoise;
+            font-size: 20px;
+        }
+        h1{
+            align-items: center;
+            color: red;
+        }
+        k{
+            color: rgb(218, 215, 250);
+        }
+        img{
+            width: 500px;
+            height: 500px;
+        }
+
+    </style>
+</head>
+<body>
+    <h1 >Kamigami</h1>
+    <img src="https://m.media-amazon.com/images/S/aplus-media/vc/9cd53d58-8f56-47a1-ad69-d4dcbbd0c472.jpg" name="img" aligin="center">
+    <p>
+        Kamigami are app-controlled, build-it-yourself robot kits that mimic the way real creatures move in nature. They are fast and fun to drive.
+    </p>
+    <h3 name="k">CREATOR</h3>
+    <p>Dash Robotics</p>
+    <h3 name="k">COUNTRY</h3>
+    <p>United States</p>
+</body>
+</html>
